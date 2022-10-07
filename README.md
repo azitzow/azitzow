@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Ana Zitzow.
+## 👋 Hi, I’m Ana Zitzow. I currenlty reside in Roseville, CA.
 
-# Full Stack Developer, that identies as a geek and can deadlift 175lbs!
+# Full Stack Web Developer
 - 👀 I’m interested in learning how to code in multiple languages, and stay up to date on new technologies. 
 - 🌱 I’m currently learning how to code in C, Ruby on Rails, JavaScript, React.js and Python.
 - 💞️ I’m looking to collaborate on the final project in CS50's Introduction to Computer Science 2022.
