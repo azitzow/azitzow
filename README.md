@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to code in C, Ruby on Rails, JavaScript, React.js and Python.
 - 💞️ I’m looking to collaborate on the final project in CS50's Introduction to Computer Science 2022.
 - 🏋️ I love to weight lift and have great respect for the athletes in the CrossFit games.  
-- 💪 Fun fact: I can deadlift 150% of my body weight.
+- 💪 Fun fact: I can deadlift 160% of my body weight.
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow)
 ![image](https://activity-graph.herokuapp.com/graph?username=azitzow&theme=minimal)
