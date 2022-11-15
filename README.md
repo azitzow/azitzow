@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ana Zitzow. I currenlty reside in Roseville, CA.
+## 👋 Hi, I’m Ana Zitzow. I currently reside in Roseville, CA.
 
 # Full Stack Web Developer
 - 👀 I’m interested in learning how to code in multiple languages, and stay up to date on new technologies. 
@@ -39,6 +39,19 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  </div>
  
+### Projects:
+<div> 
+  <ul>
+    <li>Crown Clothing 8/2022 - Present</li>
+    <li>Monsters Rolodex 9/2022</li>
+    <li>My Dwelling 7/2022 - 09/2022</li>
+    <li>Music App 06/2022</li>
+    <li>Plant 5/2022</li>
+https://user-images.githubusercontent.com/82430080/202044512-a0578099-36c6-4ec9-80e9-08f5fbfc6dd5.mov
+
+  </ul>
+</div>
+
  ### Currently learning or interested in learning the following:
  <div>
    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
