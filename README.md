@@ -39,19 +39,30 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  </div>
  
-### Projects:
-<div> 
-  <ul>
-    <li>Crown Clothing 8/2022 - Present</li>
-    <li>Monsters Rolodex 9/2022</li>
-    <li>My Dwelling 7/2022 - 09/2022</li>
-    <li>Music App 06/2022</li>
-    <li>Plant 5/2022</li>
-https://user-images.githubusercontent.com/82430080/202044512-a0578099-36c6-4ec9-80e9-08f5fbfc6dd5.mov
+## Projects:
+                                                                                             
+#### Crown Clothing
+![Crown Clothing](https://user-images.githubusercontent.com/82430080/202048480-8c22c19f-35e6-447a-8145-023a32af7a41.png)
+                                                                               
 
-  </ul>
-</div>
+#### My Dwelling
+         
 
+https://user-images.githubusercontent.com/82430080/202048337-d5847240-b78c-4bad-a7fa-c2de204c79f4.mov
+
+#### Music App
+                                                                                             
+
+
+https://user-images.githubusercontent.com/82430080/202048670-ba76be09-c4d8-4dc3-a5ea-28910a5e0779.mov
+
+#### Plant
+                                                                                             
+       
+
+https://user-images.githubusercontent.com/82430080/202048926-454f2746-4570-4a4d-b845-dc546606f51a.mov
+
+                                                                                      
  ### Currently learning or interested in learning the following:
  <div>
    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
