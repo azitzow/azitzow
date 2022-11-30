@@ -41,29 +41,29 @@
  
 ## Projects:
                                                                                              
-#### Crown Clothing
+### Crown Clothing
 ![Crown Clothing](https://user-images.githubusercontent.com/82430080/202048480-8c22c19f-35e6-447a-8145-023a32af7a41.png)
                                                                                
 
-#### My Dwelling
+### My Dwelling
          
 
 https://user-images.githubusercontent.com/82430080/202048337-d5847240-b78c-4bad-a7fa-c2de204c79f4.mov
 
-#### Music App
+### Music App
                                                                                              
 
 
 https://user-images.githubusercontent.com/82430080/202048670-ba76be09-c4d8-4dc3-a5ea-28910a5e0779.mov
 
-#### Plant
+### Plant
                                                                                              
        
 
 https://user-images.githubusercontent.com/82430080/202048926-454f2746-4570-4a4d-b845-dc546606f51a.mov
 
                                                                                       
- ### Currently learning or interested in learning the following:
+ #### Currently learning or interested in learning the following:
  <div>
    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
