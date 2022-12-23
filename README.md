@@ -8,7 +8,6 @@
 - 💪 Fun fact: I can deadlift 160% of my body weight.
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow)
-![image](https://activity-graph.herokuapp.com/graph?username=azitzow&theme=minimal)
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/azitzow/" rel="nofollow">
