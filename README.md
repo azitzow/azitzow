@@ -1,30 +1,16 @@
 ## 👋 Hi, I’m Ana Zitzow. I currently reside in Roseville, CA.
+Prior to becoming a Software Engineer, I spent 14 years in the medical field in various roles and departments, primarily as a Medical Assistant. In my last position, I tackled many projects that I am proud of. I am currently looking for an opportunity where I will face new challenges and develop my skill sets. As a software engineer, I will be collaborating with teams, allowing me to continue to grow my communication, critical thinking, problem-solving, attention to detail, and interpersonal skills, which excites me. 
 
-# Full Stack Web Developer
-- 👀 I’m interested in learning how to code in multiple languages, and stay up to date on new technologies. 
+# Software Engineer
+- 👀 I’m interested in learning design disciplines like TDD(Test-driving development) and staying updated on new technologies.. 
 - 🌱 I’m currently learning how to code in C, Ruby on Rails, JavaScript, React.js and Python.
-- 💞️ I’m looking to collaborate on the final project in CS50's Introduction to Computer Science 2022.
+- 💞️ I'm recently completed my CS50X Introduction to Computer Science. 
 - 🏋️ I love to weight lift and have great respect for the athletes in the CrossFit games.  
 - 💪 Fun fact: I can deadlift 160% of my body weight.
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow)
-
-### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/azitzow/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style=max-width: 100%;" />
-</a>
-
-<a href="https://www.arzitzow@gmail.com/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/azitzow3" rel="nofollow">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@azitzow" rel="nofollow">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow)  -->
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=azitzow&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technical Skills:
 <div>
@@ -36,7 +22,21 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  </div>
+       
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/azitzow/" rel="nofollow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style=max-width: 100%;" />
+</a>
+
+<a href="https://www.arzitzow@gmail.com/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@azitzow" rel="nofollow">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a> 
  
 ## Projects:
                                                                                              
@@ -57,7 +57,6 @@ https://user-images.githubusercontent.com/82430080/202048926-454f2746-4570-4a4d-
 #### Currently learning or interested in learning the following:
  <div>
    <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </div>
  
