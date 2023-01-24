@@ -4,7 +4,7 @@ Prior to becoming a Software Engineer, I spent 14 years in the medical field in 
 # Software Engineer
 - 👀 I’m interested in learning design disciplines like TDD(Test-driving development) and staying updated on new technologies.. 
 - 🌱 I’m currently learning how to code in C, Ruby on Rails, JavaScript, React.js and Python.
-- 💞️ I'm recently completed my CS50X Introduction to Computer Science. 
+- 💞️ I recently completed my CS50X Introduction to Computer Science. 
 - 🏋️ I love to weight lift and have great respect for the athletes in the CrossFit games.  
 - 💪 Fun fact: I can deadlift 160% of my body weight.
 
