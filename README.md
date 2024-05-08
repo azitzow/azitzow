@@ -1,12 +1,22 @@
 ## 👋 Hi, I’m Ana Zitzow. I currently reside in Roseville, CA.
-Prior to becoming a Software Engineer, I spent 14 years in the medical field in various roles and departments, primarily as a Medical Assistant. In my last position, I tackled many projects that I am proud of. I am currently looking for an opportunity where I will face new challenges and develop my skill sets. As a software engineer, I will be collaborating with teams, allowing me to continue to grow my communication, critical thinking, problem-solving, attention to detail, and interpersonal skills, which excites me. 
+In my 14-year journey in the medical field, I honed my skills as a Medical Assistant, taking on diverse roles and projects. The experiences gained, especially in my last position, are moments I am incredibly proud of.
+
+Following my one-year professional experience as a Full Stack Engineer in a startup, I'm eager to further immerse myself in the dynamic world of software engineering. Proficient in languages like TypeScript, JavaScript, Ruby, and Python, and frameworks such as React and Rails, I'm well-equipped to take on new challenges.
+
+I bring a wealth of experience collaborating with teams to deliver highly profitable outcomes. My expertise extends to working with databases like SQLite and PostgreSQL, and I have hands-on experience with tools like Chakra UI, AWS Amplify, React Query, and Playwright.
+
+I am on the lookout for my next role as a software engineer, and I am excited about the prospect of joining a highly collaborative team that values both its vision and its members. Having deadlifted 180% of my body weight, I approach challenges with determination and resilience.
+
+Beyond technical skills, my passion lies in continuous education and personal growth. As a software engineer, I'm eager to contribute to innovative solutions, grow my communication and critical thinking skills, and be a valuable asset to a team that values synergy.
+
+Let's connect and explore how we can create meaningful contributions together!
 
 # Software Engineer
 - 👀 I’m interested in learning design disciplines like TDD(Test-driving development) and staying updated on new technologies.. 
-- 🌱 I’m currently learning how to code in C, Ruby on Rails, JavaScript, React.js and Python.
-- 💞️ I recently completed my CS50X Introduction to Computer Science. 
+- 🌱 I’m currently learning how to code in Python through my CS50X Web Programming with Python and JavaScript.
+- 💞️ I completed my CS50X Introduction to Computer Science.
 - 🏋️ I love to weight lift and have great respect for the athletes in the CrossFit games.  
-- 💪 Fun fact: I can deadlift 160% of my body weight.
+- 💪 Fun fact: I can deadlift 180% of my body weight.
 
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=azitzow)  -->
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=azitzow&show_icons=true&theme=dracula)
